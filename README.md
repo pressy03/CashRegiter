@@ -3,9 +3,8 @@
 ## Инсталация
 
 ### Backend
-1. Копирай папката **backend** в `htdocs/cash-register-site/backend`
-2. Импортирай `backend/sql/create_tables.sql` през phpMyAdmin
-3. Увери се, че базата данни в `db.php` отговаря на твоите креденшъли
+1. Копирай папката **backend** в `htdocs/backend-cash-register`
+2. Импортирай `backend-cash-register/sql/create_tables.sql` през phpMyAdmin
 
 ### Frontend
 ```bash
